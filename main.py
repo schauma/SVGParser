@@ -1,6 +1,8 @@
 import os
 import xml.etree.ElementTree as ET
 import numpy as np
+"""Hallo Welt"""
+
 DATA_PATH = "simple.svg"
 
 # Need to calculate that
